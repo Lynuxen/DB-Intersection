@@ -14,3 +14,5 @@ permit and sleeps for a very short period, enough to allow the other thread
 to acquire the permit. Due to this, if a thread has cleaned its `Direction`,
 the semaphore will allow all cars on the other Direction to pass (unlike how
 it is in real life).
+
+[Link](https://github.com/Lynuxen/DB-Intersection) to the GitHub repository.
